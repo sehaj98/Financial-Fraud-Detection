@@ -1,0 +1,14 @@
+Metric,Value
+Rows_After_Deduplication,283726.0
+Threshold_Selected_On_Validation,0.5
+Accuracy,0.9994537059880872
+Precision,0.9444444444444444
+Recall,0.7157894736842105
+F1_Score,0.8143712574850299
+PR_AUC_Average_Precision,0.8088384540128418
+True_Negatives,56647.0
+False_Positives,4.0
+False_Negatives,27.0
+True_Positives,68.0
+Test_Transactions,56746.0
+Test_Fraud_Cases,95.0

@@ -1,0 +1,9 @@
+Metric,Value
+Total rows,284807
+Exact duplicate rows (extra copies),1081
+Rows in duplicate groups,1854
+Unique rows after removing exact duplicates,283726
+Original fraud cases,492
+Fraud cases after removing exact duplicates,473
+Original legitimate cases,284315
+Legitimate cases after removing exact duplicates,283253

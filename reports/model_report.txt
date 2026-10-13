@@ -1,0 +1,24 @@
+FINANCIAL FRAUD DETECTION
+Logistic Regression Baseline
+
+Accuracy: 0.9755275446789088
+Precision: 0.06097560975609756
+Recall: 0.9183673469387755
+F1_Score: 0.11435832274459974
+PR_AUC_Average_Precision: 0.7159122424484009
+True_Negatives: 55478
+False_Positives: 1386
+False_Negatives: 8
+True_Positives: 90
+Baseline_Accuracy: 0.9982795547909132
+Baseline_Recall: 0.0
+
+Classification Report:
+              precision    recall  f1-score   support
+
+  Legitimate       1.00      0.98      0.99     56864
+       Fraud       0.06      0.92      0.11        98
+
+    accuracy                           0.98     56962
+   macro avg       0.53      0.95      0.55     56962
+weighted avg       1.00      0.98      0.99     56962

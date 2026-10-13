@@ -1,0 +1,12 @@
+Metric,Value
+Accuracy,0.9755275446789088
+Precision,0.06097560975609756
+Recall,0.9183673469387755
+F1_Score,0.11435832274459974
+PR_AUC_Average_Precision,0.7159122424484009
+True_Negatives,55478.0
+False_Positives,1386.0
+False_Negatives,8.0
+True_Positives,90.0
+Baseline_Accuracy,0.9982795547909132
+Baseline_Recall,0.0
